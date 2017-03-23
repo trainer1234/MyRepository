@@ -112,7 +112,7 @@ int main(){
 	cin.tie(0);
 	//SieveOfEratosthenes(1000000);
 	//weekday  = (d+=m<3?y--:y-2,23*m/9+d+4+y/4-y/100+y/400)%7  ;
-	cout << "Hello Worldasdfasdfsdfsdf\n";
+	
 	return 0;
 }
 
